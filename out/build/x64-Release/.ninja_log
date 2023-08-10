@@ -1,0 +1,11 @@
+# ninja log v5
+7	1498	7133240243952981	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomUtils.cpp.o	fb1d385fe29d877
+4	1645	7133240245501863	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomJSDefinitions.cpp.o	1636940c3761040f
+3	1688	7133240245975868	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomElementOptions.cpp.o	3f19bdd86915cbe
+1	1695	7133240245975868	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomClassManager.cpp.o	f8cf05b2e921d163
+4	2100	7133240249983156	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomStyleManager.cpp.o	e349462ef7703e68
+2	2211	7133240251210955	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomElement.cpp.o	7411bfc1ddffde18
+5	2269	7133240251785154	CMakeFiles/SimpleTodoAppAtom.dir/main.cpp.o	63f95385010a5ba6
+5	3570	7133240264649593	CMakeFiles/SimpleTodoAppAtom.dir/App.cpp.o	c56df5a8c1d9717e
+6	15155	7133240380616742	CMakeFiles/SimpleTodoAppAtom.dir/StyleSheet.cpp.o	3948d816224c20db
+15155	216316	7133242392337253	SimpleTodoAppAtom.js	f0f681ad1314c46b

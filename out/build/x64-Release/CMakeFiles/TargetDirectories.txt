@@ -1,0 +1,3 @@
+D:/projects/SimpleTodoAppAtom/out/build/x64-Release/CMakeFiles/SimpleTodoAppAtom.dir
+D:/projects/SimpleTodoAppAtom/out/build/x64-Release/CMakeFiles/edit_cache.dir
+D:/projects/SimpleTodoAppAtom/out/build/x64-Release/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+# ninja log v5
+6	1544	7133207034939684	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomElementOptions.cpp.o	223466311f7356a0
+5	1762	7133038366328196	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomClassManager.cpp.o	d00038b2f7c752e
+2177	5065	7133222269981115	SimpleTodoAppAtom.js	ae59826c10b593de
+5	1369	7133135452842672	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomJSDefinitions.cpp.o	bf5dd15a61875953
+4	1400	7133222233293906	CMakeFiles/SimpleTodoAppAtom.dir/main.cpp.o	686ed36bf3f63209
+7	1912	7133207039233204	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomStyleManager.cpp.o	dbb04a8ae2c500c7
+6	2177	7133222241019497	CMakeFiles/SimpleTodoAppAtom.dir/App.cpp.o	fcc94f142cc9c887
+5	2039	7133207040501791	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomElement.cpp.o	eff8c0310068bd6a
+9	1315	7133207033249686	CMakeFiles/SimpleTodoAppAtom.dir/StyleSheet.cpp.o	d44675deb2ebd8e3
+2	7	0	clean	8c45b54705a541e8
+11	1595	7133038364590731	CMakeFiles/SimpleTodoAppAtom.dir/Atom/AtomUtils.cpp.o	3446ccdccf59e33
+6	1351	7133222293606438	CMakeFiles/SimpleTodoAppAtom.dir/main.cpp.o	686ed36bf3f63209
+1352	4225	7133222322394668	SimpleTodoAppAtom.js	ae59826c10b593de
+5	1426	7133222662949117	CMakeFiles/SimpleTodoAppAtom.dir/main.cpp.o	686ed36bf3f63209
+6	8787	7133222736493961	CMakeFiles/SimpleTodoAppAtom.dir/StyleSheet.cpp.o	d44675deb2ebd8e3
+8787	255129	7133225200047584	SimpleTodoAppAtom.js	ae59826c10b593de
+5	5575	7133238321925522	CMakeFiles/SimpleTodoAppAtom.dir/StyleSheet.cpp.o	d44675deb2ebd8e3
+5576	164433	7133239910502152	SimpleTodoAppAtom.js	ae59826c10b593de
